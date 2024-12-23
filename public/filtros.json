@@ -1,0 +1,25 @@
+{
+    "formato": {
+        "primerBloque": [
+            "Espada Sagrada",
+            "Cruzadas",
+            "Helénica",
+            "Imperio",
+            "Hijos de Danna",
+            "Tierras Altas",
+            "Dominios de Ra",
+            "encrucijada"
+        ],
+        "segundo bloque":[
+            "vendaval",
+            "guerrero jaguar"
+        ]
+    },
+    "tipo": [
+        "aliado",
+        "arma",
+        "talisman",
+        "oro",
+        "totem"
+    ]
+}
