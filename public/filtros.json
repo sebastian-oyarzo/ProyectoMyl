@@ -1,6 +1,6 @@
 {
     "formato": {
-        "PrimerBloque": [
+        "primerbloque": [
             "Espada Sagrada",
             "Cruzadas",
             "Helénica",
@@ -10,7 +10,7 @@
             "Dominios de Ra",
             "Encrucijada"
         ],
-        "SegundoBloque":[
+        "segundobloque":[
             "vendaval",
             "guerrero jaguar"
         ]
@@ -21,6 +21,6 @@
         "Arma",
         "Talismán",
         "Oro",
-        "tótem"
+        "Tótem"
     ]
 }

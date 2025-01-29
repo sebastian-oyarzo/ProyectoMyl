@@ -1,10 +1,10 @@
 import { configureStore } from "@reduxjs/toolkit";
-import ejemploReducer from "./Reducers/Search"; // Importar el reducer generado en el slice
+import searchReducer from './Reducers/Search'
 
 const store = configureStore({
   reducer: {
-    ejemplo: ejemploReducer, // Registrar el reducer en el estado global
-  }
+    search: searchReducer, // Asegúrate de que el reducer esté registrado aquí
+  },
 });
 
 export default store;
